@@ -9,9 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AoCTools", "AoCTools\AoCToo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day02 - Rock Paper Scissors", "Day02\Day02 - Rock Paper Scissors.csproj", "{906886D4-BCCF-4984-8AB3-6B0E50B8E247}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day03", "Day03\Day03.csproj", "{BAA1960A-0317-4650-8CAB-79A44D4596B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day03 - Rucksack Reorganization", "Day03\Day03 - Rucksack Reorganization.csproj", "{BAA1960A-0317-4650-8CAB-79A44D4596B7}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day04", "Day04\Day04.csproj", "{3BD9C25D-F9DF-4B6D-BFA8-82622B12753C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day04 - Camp Cleanup", "Day04\Day04 - Camp Cleanup.csproj", "{3BD9C25D-F9DF-4B6D-BFA8-82622B12753C}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day05", "Day05\Day05.csproj", "{7DBE1C8C-E059-43E2-8767-8CF4FC196F3E}"
 EndProject
@@ -60,6 +60,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		input01.txt = input01.txt
 		input02.txt = input02.txt
 		input03.txt = input03.txt
+		input03test.txt = input03test.txt
 		input04.txt = input04.txt
 		input05.txt = input05.txt
 		input06.txt = input06.txt
