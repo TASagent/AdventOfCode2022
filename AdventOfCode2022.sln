@@ -13,15 +13,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day03 - Rucksack Reorganiza
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day04 - Camp Cleanup", "Day04\Day04 - Camp Cleanup.csproj", "{3BD9C25D-F9DF-4B6D-BFA8-82622B12753C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day05", "Day05\Day05.csproj", "{7DBE1C8C-E059-43E2-8767-8CF4FC196F3E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day05 - Supply Stacks", "Day05\Day05 - Supply Stacks.csproj", "{7DBE1C8C-E059-43E2-8767-8CF4FC196F3E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day06", "Day06\Day06.csproj", "{2A8321A6-4858-4045-9E67-5168A4FDC1E1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day06 - Tuning Trouble", "Day06\Day06 - Tuning Trouble.csproj", "{2A8321A6-4858-4045-9E67-5168A4FDC1E1}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day07", "Day07\Day07.csproj", "{F37DB364-99CC-4B13-B0CA-0CCC4B741154}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day07 - No Space Left On Device", "Day07\Day07 - No Space Left On Device.csproj", "{F37DB364-99CC-4B13-B0CA-0CCC4B741154}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day08", "Day08\Day08.csproj", "{C40C0F2F-E0F1-41E0-BE9A-84292FED7AD6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day08 - Treetop Tree House", "Day08\Day08 - Treetop Tree House.csproj", "{C40C0F2F-E0F1-41E0-BE9A-84292FED7AD6}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day09", "Day09\Day09.csproj", "{DEA626D7-1DF0-480B-B99F-6BF3CB40D370}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day09 - Rope Bridge", "Day09\Day09 - Rope Bridge.csproj", "{DEA626D7-1DF0-480B-B99F-6BF3CB40D370}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day10", "Day10\Day10.csproj", "{6EC26F05-1119-4B2B-862E-53260A5CA820}"
 EndProject
@@ -66,6 +66,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		input06.txt = input06.txt
 		input07.txt = input07.txt
 		input08.txt = input08.txt
+		input08test.txt = input08test.txt
 		input09.txt = input09.txt
 		input10.txt = input10.txt
 		input11.txt = input11.txt
