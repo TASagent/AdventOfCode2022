@@ -33,7 +33,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day13 - Distress Signal", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day14 - Regolith Reservoir", "Day14\Day14 - Regolith Reservoir.csproj", "{61F02753-CAE2-4366-8CCB-2264B9C71EE4}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day15", "Day15\Day15.csproj", "{6EC090F4-B89C-4B87-A9AA-53391A7DF46E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day15 - Beacon Exclusion Zone", "Day15\Day15 - Beacon Exclusion Zone.csproj", "{6EC090F4-B89C-4B87-A9AA-53391A7DF46E}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day16", "Day16\Day16.csproj", "{125E64B9-1D31-477A-BFDC-ED939A535F75}"
 EndProject
